@@ -1,3 +1,23 @@
 // Place all the styles related to the admins controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: https://sass-lang.com/
+.ListTitle {
+  color:
+  #244;
+  font-weight: bold;
+  font-size:
+  larger;
+  }
+  .ListActions {
+  font-size:
+  x-small;
+  text-align:
+  right;
+  padding-left: 1em;
+  }
+  .ListLine0 {
+  background: #e0f8f8;
+  }
+  .ListLine1 {
+  background: #f8b0f8;
+  }
