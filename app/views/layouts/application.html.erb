@@ -48,10 +48,11 @@
     </nav>    
       <div class="container">
         <div class="row">
-          <div class="col-0">
-            <%= link_to 'New Product', new_product_path %><br>
+          <div class="col-1">
+            <%= link_to 'lists', list_admins_path, class: :"btn btn-outline-success"%><br>
+            <%= link_to 'stores', stores_path, class: :"btn btn-outline-dark" %>
           </div>
-        <div class="col-12">
+        <div class="col-11">
           <%= yield %>
         </div>
       </div>
