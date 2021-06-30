@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Admin: MyString
+  title: MyString
+  description: MyText
+  image_url: MyString
+  price: MyString
+  date_available: 2021-06-30 10:25:44
+
+two:
+  Admin: MyString
+  title: MyString
+  description: MyText
+  image_url: MyString
+  price: MyString
+  date_available: 2021-06-30 10:25:44
